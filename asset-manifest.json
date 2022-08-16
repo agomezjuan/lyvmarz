@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/lyvmarz/static/css/main.80f35113.css",
+    "main.css": "/lyvmarz/static/css/main.be03c6f6.css",
     "main.js": "/lyvmarz/static/js/main.b0bf3092.js",
     "static/js/787.8fa3ea85.chunk.js": "/lyvmarz/static/js/787.8fa3ea85.chunk.js",
     "static/media/lyv-skater.png": "/lyvmarz/static/media/lyv-skater.e1b29b8c7131150e4920.png",
@@ -13,12 +13,12 @@
     "static/media/papel.png": "/lyvmarz/static/media/papel.b8708e7ab2ecdfdd8be9.png",
     "static/media/StrangerThings-Regular.ttf": "/lyvmarz/static/media/StrangerThings-Regular.20413700a16b7da9e2e0.ttf",
     "index.html": "/lyvmarz/index.html",
-    "main.80f35113.css.map": "/lyvmarz/static/css/main.80f35113.css.map",
+    "main.be03c6f6.css.map": "/lyvmarz/static/css/main.be03c6f6.css.map",
     "main.b0bf3092.js.map": "/lyvmarz/static/js/main.b0bf3092.js.map",
     "787.8fa3ea85.chunk.js.map": "/lyvmarz/static/js/787.8fa3ea85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80f35113.css",
+    "static/css/main.be03c6f6.css",
     "static/js/main.b0bf3092.js"
   ]
 }
