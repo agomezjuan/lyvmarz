@@ -1,0 +1,90 @@
+@import './global.sass'
+header
+    display: flex
+    position: relative
+    justify-content: space-between
+    background-color: white
+    font-size: 1.6rem
+    padding: 2rem 4rem 2rem 2rem
+    height: 10rem
+    .menu
+        display: flex
+        align-items: center
+        ul
+            display: flex
+            align-items: center
+            li
+                list-style: none
+                margin: 0 1rem
+                padding: 0.5rem 1rem
+                border-radius: 5px
+                &:hover
+                    color: $color-primary
+                    background-color: #f5dbf9
+                a
+                    text-decoration: none
+                    color: black
+                    font-family: 'A Dripping Marker'
+                    font-size: 2rem
+
+    .logo
+        position: absolute
+        align-self: flex-end
+        left: calc( 50% - 10rem )
+        text-align: center
+        width: 20rem
+        flex-grow: 2
+        &-text
+            font-family: 'Funera Chaotic', cursive
+            color: $color-primary
+            font-size: 6rem
+
+    .social
+        display: flex
+        justify-content: space-between
+        align-items: center
+        gap: 3rem
+        li
+            display: inline
+            text-decoration: none
+            a
+                text-decoration: none
+                color: black
+                font-size: 0.9rem
+                &:hover
+                    color: $color-primary
+
+                ul
+                    display: flex
+
+@media (max-width: 700px)
+    header
+        flex-direction: column-reverse
+        -webkit-flex-direction: column-reverse
+        align-items: center
+        height: 20rem
+        padding: 2rem
+        .menu
+            position: fixed
+            top: 0
+            margin-bottom: 2rem
+            background-color: white
+            padding: 1rem 2rem
+            z-index: 3
+            border-bottom-left-radius: 1rem
+            border-bottom-right-radius: 1rem
+        .logo
+            position: relative
+            top: 3rem
+            left: 0
+            // margin-top: 2rem
+            width: 100%
+            &-text
+                font-size: 8rem
+        .social
+            width: 100%
+            display: flex
+            justify-content: space-around
+            margin-top: 2rem
+            display: flex
+            padding: 0

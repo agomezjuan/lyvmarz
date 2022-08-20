@@ -1,0 +1,97 @@
+@import './global'
+.banner
+    height: 100%
+    max-height: 100vh
+    display: flex
+    justify-content: center
+    align-items: center
+    background-color: #f5dbf9
+
+    &__texture
+        display: flex
+        flex-direction: column
+        align-items: center
+        width: 100%
+        padding: 10%
+        // background-size: cover
+        // background-repeat: no-repeat
+        // background-position: center
+        // background-image: url('../img/bg-texture.png')
+    &__jumbo
+        display: flex
+        justify-content: space-between
+        align-items: center
+        background-color: white
+        width: 100%
+        border-radius: 30px
+        padding: 2rem
+        box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px
+        &-image
+            width: 40%
+            padding: 1rem
+            flex-grow: 2
+            position: relative
+            img
+                max-width: 60rem
+                width: 100%
+                box-shadow: rgba(0, 0, 0, 0.02) 0px 1px 3px 0px, rgba(27, 31, 35, 0.15) 0px 0px 0px 1px
+                border-radius: 10px
+        &-frame
+            position: absolute
+            top: 10%
+            left: 10%
+            width: 80%
+            height: 80%
+            border: 3px solid #f5dbf9
+            border-radius: 30px
+
+        &-button
+            width: 60%
+            display: flex
+            justify-content: center
+            align-items: center
+            text-align: center
+            a
+                background-color: $color-primary
+                font-family: 'A Dripping Marker'
+                color: white
+                padding: 15px 20px 10px
+                border-radius: 5px
+                cursor: pointer
+                transition: all 0.3s ease
+                width: 50%
+                font-size: 3.3rem
+                text-decoration: none
+                line-height: 1.8rem
+                box-shadow: rgba(0, 0, 0, 0.07) 0px 1px 2px, rgba(0, 0, 0, 0.07) 0px 2px 4px, rgba(0, 0, 0, 0.07) 0px 4px 8px, rgba(0, 0, 0, 0.07) 0px 8px 16px, rgba(0, 0, 0, 0.07) 0px 16px 32px, rgba(0, 0, 0, 0.07) 0px 32px 64px
+                &:hover
+                    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px
+                span
+                    font-family: 'freemono'
+                    font-size: 1.5rem
+
+@media (max-width: 768px)
+    .banner
+        &__jumbo
+            flex-direction: column-reverse
+            align-items: center
+            gap: 2rem
+            &-image
+                width: 100%
+                max-width: 40rem
+                padding: 0
+                img
+                    max-width: 100%
+            &-frame
+                top: 5%
+                left: 5%
+                width: 90%
+                height: 90%
+                border-radius: 20px
+            &-button
+                width: 100%
+                a
+                    width: 100%
+                    font-size: 2.5rem
+                    padding: 10px 20px 5px
+                    line-height: 1.5rem
