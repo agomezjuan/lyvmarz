@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/lyvmarz/static/css/main.be03c6f6.css",
-    "main.js": "/lyvmarz/static/js/main.b0bf3092.js",
-    "static/js/787.8fa3ea85.chunk.js": "/lyvmarz/static/js/787.8fa3ea85.chunk.js",
-    "static/media/lyv-skater.png": "/lyvmarz/static/media/lyv-skater.e1b29b8c7131150e4920.png",
-    "static/media/anime-girl.png": "/lyvmarz/static/media/anime-girl.94d8b152a200f0eedbae.png",
-    "static/media/freemono.ttf": "/lyvmarz/static/media/freemono.0a14e9deda7e9ffa2d4a.ttf",
-    "static/media/MCFuneraChaotic.ttf": "/lyvmarz/static/media/MCFuneraChaotic.aee6795a39fcde909e2f.ttf",
-    "static/media/casette.png": "/lyvmarz/static/media/casette.044d3193f9a00039eda8.png",
-    "static/media/adrip1.ttf": "/lyvmarz/static/media/adrip1.d0316bf95b135611d4be.ttf",
-    "static/media/SpicyRice-Regular.ttf": "/lyvmarz/static/media/SpicyRice-Regular.25ab09ef8c06c9331f71.ttf",
-    "static/media/papel.png": "/lyvmarz/static/media/papel.b8708e7ab2ecdfdd8be9.png",
-    "static/media/StrangerThings-Regular.ttf": "/lyvmarz/static/media/StrangerThings-Regular.20413700a16b7da9e2e0.ttf",
-    "index.html": "/lyvmarz/index.html",
-    "main.be03c6f6.css.map": "/lyvmarz/static/css/main.be03c6f6.css.map",
-    "main.b0bf3092.js.map": "/lyvmarz/static/js/main.b0bf3092.js.map",
-    "787.8fa3ea85.chunk.js.map": "/lyvmarz/static/js/787.8fa3ea85.chunk.js.map"
+    "main.css": "/static/css/main.c3cd846e.css",
+    "main.js": "/static/js/main.c652c18e.js",
+    "static/js/787.8fa3ea85.chunk.js": "/static/js/787.8fa3ea85.chunk.js",
+    "static/media/lyv-skater.png": "/static/media/lyv-skater.e1b29b8c7131150e4920.png",
+    "static/media/anime-girl.png": "/static/media/anime-girl.94d8b152a200f0eedbae.png",
+    "static/media/EP-PORTADA.png": "/static/media/EP-PORTADA.6c1ffbce49704e4cc459.png",
+    "static/media/freemono.ttf": "/static/media/freemono.0a14e9deda7e9ffa2d4a.ttf",
+    "static/media/MCFuneraChaotic.ttf": "/static/media/MCFuneraChaotic.aee6795a39fcde909e2f.ttf",
+    "static/media/casette.png": "/static/media/casette.044d3193f9a00039eda8.png",
+    "static/media/adrip1.ttf": "/static/media/adrip1.d0316bf95b135611d4be.ttf",
+    "static/media/SpicyRice-Regular.ttf": "/static/media/SpicyRice-Regular.25ab09ef8c06c9331f71.ttf",
+    "static/media/papel.png": "/static/media/papel.b8708e7ab2ecdfdd8be9.png",
+    "static/media/StrangerThings-Regular.ttf": "/static/media/StrangerThings-Regular.20413700a16b7da9e2e0.ttf",
+    "index.html": "/index.html",
+    "main.c3cd846e.css.map": "/static/css/main.c3cd846e.css.map",
+    "main.c652c18e.js.map": "/static/js/main.c652c18e.js.map",
+    "787.8fa3ea85.chunk.js.map": "/static/js/787.8fa3ea85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.be03c6f6.css",
-    "static/js/main.b0bf3092.js"
+    "static/css/main.c3cd846e.css",
+    "static/js/main.c652c18e.js"
   ]
 }
