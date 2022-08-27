@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.55fc4f5a.css",
-    "main.js": "/static/js/main.a0d362cb.js",
+    "main.css": "/static/css/main.fbfb838c.css",
+    "main.js": "/static/js/main.a8081c66.js",
     "static/js/787.8fa3ea85.chunk.js": "/static/js/787.8fa3ea85.chunk.js",
     "static/media/lyv-skater.png": "/static/media/lyv-skater.5b896c1ef32c63e8fb9f.png",
     "static/media/EP-PORTADA.png": "/static/media/EP-PORTADA.c132b37227aea16419eb.png",
@@ -14,12 +14,12 @@
     "static/media/papel.png": "/static/media/papel.b8708e7ab2ecdfdd8be9.png",
     "static/media/StrangerThings-Regular.ttf": "/static/media/StrangerThings-Regular.20413700a16b7da9e2e0.ttf",
     "index.html": "/index.html",
-    "main.55fc4f5a.css.map": "/static/css/main.55fc4f5a.css.map",
-    "main.a0d362cb.js.map": "/static/js/main.a0d362cb.js.map",
+    "main.fbfb838c.css.map": "/static/css/main.fbfb838c.css.map",
+    "main.a8081c66.js.map": "/static/js/main.a8081c66.js.map",
     "787.8fa3ea85.chunk.js.map": "/static/js/787.8fa3ea85.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55fc4f5a.css",
-    "static/js/main.a0d362cb.js"
+    "static/css/main.fbfb838c.css",
+    "static/js/main.a8081c66.js"
   ]
 }
